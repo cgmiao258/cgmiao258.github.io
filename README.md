@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-    <img src="/assets/linkedin.png" style="border-radius: 16px;">
-</div>
-
 
 ## Projects
 <div class="class-container" style = "display: flex; flex-direction: column; gap: 16px;">
