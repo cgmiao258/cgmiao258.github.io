@@ -2,6 +2,14 @@
     <img src="/assets/linkedin.png" style="border-radius: 16px;">
 </div>
 ## Projects
+<div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px;">
+<!--     <img src="/path-to-your-image/image-file-name.jpg" alt="Card Image" class="card-image"> -->
+    <div class="card-content">
+        <h3>PostgreSQL Modifications</h3>
+        <p>speifjapsiejf</p>
+        
+    </div>
+</div>
   **PostgreSQL Modifications**
   - Modified open source C++ database management system
   - Changed replacement policy to alternate between FIFO, LRU and MRU
