@@ -28,13 +28,13 @@
                 <li>Ran mock waterfall activities</li>
                 <li>Added improvements/changes to created system by running a mock agile scrum sprint</li>
             </ul>
-            <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
+            <a href="https://github.com/cgmiao258/Voting-System">Github Link</a>
         </div>
     </div>
     
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-            <h3>Personal Project: Movie finder</h3>
+            <h3>Personal Project: Movie Finder</h3>
             <ul>
                 <li>Created a website that allows user to search for different movies</li>
                 <li>Added a recommendation page based on the user's previous searches</li>
