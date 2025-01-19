@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="/assets/linkedin.png">
+    <img src="/assets/linkedin.png" style="border-radius: 16px;">
 </div>
 ## Projects
   **PostgreSQL Modifications**
