@@ -1,4 +1,6 @@
-<img src="/assets/linkedin.png" class="center-image">
+<div style="text-align: center;">
+    <img src="/assets/linkedin.png">
+</div>
 ## Projects
   **PostgreSQL Modifications**
   - Modified open source C++ database management system
