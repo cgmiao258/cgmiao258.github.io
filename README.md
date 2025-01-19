@@ -1,18 +1,19 @@
 <div style="text-align: center;">
     <img src="/assets/linkedin.png" style="border-radius: 16px;">
 </div>
+
 ## Projects
 <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
 <!--     <img src="/path-to-your-image/image-file-name.jpg" alt="Card Image" class="card-image"> -->
     <div class="card-content">
         <h3>PostgreSQL Modifications</h3>
-        <u1>
+        <ul>
             <li>Modified open source C++ database management system</li>
             <li>Changed replacement policy to alternate between FIFO, LRU and MRU</li>
             <li>Forced query selection to be nested loop, merge sort or hash join to compare performance</li>
             <li>Wrote indexes with B+ tree and hash indexes to compare performance</li>
-            <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
-       
+        <ul>
+        <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
     </div>
 </div>
   **PostgreSQL Modifications**
