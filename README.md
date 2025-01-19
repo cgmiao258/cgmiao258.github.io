@@ -7,9 +7,11 @@
 ## Work Experience
   **Engineer Intern at Village of Bolingbrook, IL (_May 2023 - August 2023_)**
   - Assisted senior engineers in field work and completed projects in CAD for clients
+  
   **Engineer Intern at City of Naperville, IL (_May 2022 - August 2022_)**
   - Assisted and work with senior engineers oversee construction work
   - Aided senior engineers in design and CAD projects
+  
   **Engineering Intern at Dupage County DOT (_May 2019 - August 2019_)**
   - Responsible for reviewing highway permits, processing work orders, answering customer service calls, and organizing documents
 
