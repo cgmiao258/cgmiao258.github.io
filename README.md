@@ -2,7 +2,7 @@
 <div class="class-container" style = "display: flex; flex-direction: column; gap: 16px;">
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-            <img src="/assets/postgresql elephant.png" style="width: 100%; height: auto; max-width: 100px;">
+            <img src="/assets/postgresql elephant.png" style="width: 100%; height: auto; max-width: 300px;">
             <h3>PostgreSQL Modifications</h3>
             <ul>
                 <li>Modified open source C++ database management system</li>
@@ -31,7 +31,7 @@
     
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-            <img src="/assets/movie finder.webp" style="width: 100%; height: auto; max-width: 100px;">
+            <img src="/assets/movie finder.webp" style="width: 100%; height: auto; max-width: 500px;">
             <h3>Personal Project: Movie Finder</h3>
             <ul>
                 <li>Created a website that allows user to search for different movies</li>
