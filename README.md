@@ -3,44 +3,46 @@
 </div>
 
 ## Projects
-<div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
-    <div class="card-content">
-        <h3>PostgreSQL Modifications</h3>
-        <ul>
-            <li>Modified open source C++ database management system</li>
-            <li>Changed replacement policy to alternate between FIFO, LRU and MRU</li>
-            <li>Forced query selection to be nested loop, merge sort or hash join to compare performance</li>
-            <li>Wrote indexes with B+ tree and hash indexes to compare performance</li>
-        </ul>
-        <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
+<div class="class-container" style = "margin = 16px;">
+    <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
+        <div class="card-content">
+            <h3>PostgreSQL Modifications</h3>
+            <ul>
+                <li>Modified open source C++ database management system</li>
+                <li>Changed replacement policy to alternate between FIFO, LRU and MRU</li>
+                <li>Forced query selection to be nested loop, merge sort or hash join to compare performance</li>
+                <li>Wrote indexes with B+ tree and hash indexes to compare performance</li>
+            </ul>
+            <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
+        </div>
     </div>
-</div>
-
-<div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
-    <div class="card-content">
-        <h3>Voting System Software Engineering Project</h3>
-        <ul>
-            <li>Software parses csvs to determine outcome of election for two different voting systems: instant run off and open party listings</li>
-            <li>Created activity diagrams, class diagrams, sequence diagrams and software design documents</li>
-            <li>Used waterfull and agile scrum methodologies</li>
-            <li>Written in C++ and included doxygen tests</li>
-            <li>Ran mock waterfall activities</li>
-            <li>Added improvements/changes to created system by running a mock agile scrum sprint</li>
-        </ul>
-        <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
+    
+    <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
+        <div class="card-content">
+            <h3>Voting System Software Engineering Project</h3>
+            <ul>
+                <li>Software parses csvs to determine outcome of election for two different voting systems: instant run off and open party listings</li>
+                <li>Created activity diagrams, class diagrams, sequence diagrams and software design documents</li>
+                <li>Used waterfull and agile scrum methodologies</li>
+                <li>Written in C++ and included doxygen tests</li>
+                <li>Ran mock waterfall activities</li>
+                <li>Added improvements/changes to created system by running a mock agile scrum sprint</li>
+            </ul>
+            <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
+        </div>
     </div>
-</div>
-
-<div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
-    <div class="card-content">
-        <h3>Personal Project: Movie finder</h3>
-        <ul>
-            <li>Created a website that allows user to search for different movies</li>
-            <li>Added a recommendation page based on the user's previous searches</li>
-            <li>Converted IMDB API into database in mysql using mysql workbench and AWS</li>
-            <li>Used Python, Python Flask, CSS, HTML and MYSQL</li>
-        </ul>
-        <a href="https://github.com/cgmiao258/Movie-Finder">Github Link</a>
+    
+    <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
+        <div class="card-content">
+            <h3>Personal Project: Movie finder</h3>
+            <ul>
+                <li>Created a website that allows user to search for different movies</li>
+                <li>Added a recommendation page based on the user's previous searches</li>
+                <li>Converted IMDB API into database in mysql using mysql workbench and AWS</li>
+                <li>Used Python, Python Flask, CSS, HTML and MYSQL</li>
+            </ul>
+            <a href="https://github.com/cgmiao258/Movie-Finder">Github Link</a>
+        </div>
     </div>
 </div>
 
