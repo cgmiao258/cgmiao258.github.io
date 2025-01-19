@@ -3,7 +3,7 @@
 </div>
 
 ## Projects
-<div class="class-container" style = "margin = 16px;">
+<div class="class-container" style = "gap: 16px;">
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
             <h3>PostgreSQL Modifications</h3>
