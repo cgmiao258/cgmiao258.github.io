@@ -14,3 +14,21 @@
   
   **Engineering Intern at Dupage County DOT (_May 2019 - August 2019_)**
   - Responsible for reviewing highway permits, processing work orders, answering customer service calls, and organizing documents
+
+## Projects
+  **PostgreSQL Modifications**
+  - Modified open source C++ database management system
+  - Changed replacement policy to alternate between FIFO, LRU and MRU
+  - Forced query selection to be nested loop, merge sort or hash join to compare performance
+  - Wrote indexes with B+ tree and hash indexes to compare performance
+    
+  **Voting System Software Engineering Project**
+  - Used waterfall and agile scrum methodologies to create a voting system
+  - The voting system written in C++ and included doxygen tests
+  - Ran mock waterfall activities while creating voting system
+  - Added improvements/changes to created system by running a mock agile scrum sprint
+    
+  **Personal Project**
+  - Created a website that allows user to search for different movies
+  - Converted IMDB API into database in mysql using mysql workbench and AWS
+  - Used Python, Python Flask, CSS, HTML and MYSQL
