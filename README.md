@@ -1,3 +1,4 @@
+<img src="/assets/linkedin.png" class="center-image">
 ## Projects
   **PostgreSQL Modifications**
   - Modified open source C++ database management system
@@ -17,7 +18,7 @@
   - Used Python, Python Flask, CSS, HTML and MYSQL
 
 
-<img src="/assets/linkedin.png" class="center-image">
+
 #### Technical Skills: Java, C++, Python, SQL, MongoDB, Software Testing, CSS, HTML, Python Flask, Github
 ## Education
   - M.S., Computer Science @ The University of Minnesota Twin Cities (_May 2025_)
