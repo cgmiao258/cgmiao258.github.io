@@ -1,3 +1,10 @@
+<header class="page-header" role="banner">
+    <h1 class = "project-name">Christopher Miao</h1>
+    <h2 class = "project-tagline">Currently looking for a full-time Software Engineering job starting Summer of 2025</h1>
+    <a href="/" class="btn">Resume</a>
+    <a href="/" class="btn">Linkedin</a>
+</header>
+
 <div style="text-align: center;">
     <img src="/assets/linkedin.png" style="border-radius: 16px;">
 </div>
