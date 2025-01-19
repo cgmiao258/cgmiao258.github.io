@@ -29,7 +29,7 @@
                 <li>Ran mock waterfall activities</li>
                 <li>Added improvements/changes to created system by running a mock agile scrum sprint</li>
             </ul>
-            <a href="https://github.com/cgmiao258/Voting-System">Github Link</a>
+            <a href="https://github.com/cgmiao258/Software-System">Github Link</a>
         </div>
     </div>
     
