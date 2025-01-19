@@ -11,10 +11,11 @@
             <li>Changed replacement policy to alternate between FIFO, LRU and MRU</li>
             <li>Forced query selection to be nested loop, merge sort or hash join to compare performance</li>
             <li>Wrote indexes with B+ tree and hash indexes to compare performance</li>
-        <ul>
+        </ul>
         <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-">Github Link</a>
     </div>
 </div>
+            
   **PostgreSQL Modifications**
   - Modified open source C++ database management system
   - Changed replacement policy to alternate between FIFO, LRU and MRU
