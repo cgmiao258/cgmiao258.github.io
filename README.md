@@ -4,7 +4,6 @@
 
 ## Projects
 <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
-<!--     <img src="/path-to-your-image/image-file-name.jpg" alt="Card Image" class="card-image"> -->
     <div class="card-content">
         <h3>PostgreSQL Modifications</h3>
         <ul>
