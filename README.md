@@ -1,4 +1,4 @@
-<img src="/assets/linkedin.png">
+<img src="/assets/linkedin.png" style="display: block; margin: 0 auto;">
 #### Technical Skills: Java, C++, Python, SQL, MongoDB, Software Testing, CSS, HTML, Python Flask, Github
 ## Objective
   Currently Looking for a fulltime Software Engineering job starting Summer of 2025
