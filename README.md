@@ -6,8 +6,13 @@
 <!--     <img src="/path-to-your-image/image-file-name.jpg" alt="Card Image" class="card-image"> -->
     <div class="card-content">
         <h3>PostgreSQL Modifications</h3>
-        <p>speifjapsiejf</p>
-        
+        <u1>
+            <li>Modified open source C++ database management system</li>
+            <li>Changed replacement policy to alternate between FIFO, LRU and MRU</li>
+            <li>Forced query selection to be nested loop, merge sort or hash join to compare performance</li>
+            <li>Wrote indexes with B+ tree and hash indexes to compare performance</li>
+            <a href="https://github.com/cgmiao258/PostgreSQL-Modifications-" a>
+        <p>
     </div>
 </div>
   **PostgreSQL Modifications**
