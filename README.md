@@ -1,5 +1,6 @@
 #### Technical Skills: Java, C++, Python, SQL, MongoDB, Software Testing, CSS, HTML, Python Flask, Github
-
+## Objective
+  Currently Looking for a fulltime Software Engineering job starting Summer of 2025
 ## Education
   - M.S., Computer Science @ The University of Minnesota Twin Cities (_May 2025_)
   - B.S., Civil Engineering with Minor in Computer Science @ The University of Illinois Urbana-Champaign (_May 2023_)	
