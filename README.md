@@ -14,6 +14,3 @@
   
   **Engineering Intern at Dupage County DOT (_May 2019 - August 2019_)**
   - Responsible for reviewing highway permits, processing work orders, answering customer service calls, and organizing documents
-
-## Projects
-### proj
