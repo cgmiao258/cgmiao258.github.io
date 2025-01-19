@@ -1,11 +1,12 @@
+<div style="text-align: center;">
+    <img src="/assets/linkedin.png" style="border-radius: 16px;">
+</div>
+
 <style>
 h1, h2, h3, h4, h5, h6 {
     color: #1677ff; 
 }
 </style>
-<div style="text-align: center;">
-    <img src="/assets/linkedin.png" style="border-radius: 16px;">
-</div>
 
 ## Projects
 <div class="class-container" style = "display: flex; flex-direction: column; gap: 16px;">
