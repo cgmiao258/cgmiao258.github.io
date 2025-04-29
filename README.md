@@ -69,6 +69,7 @@
   - AI/ML/Data: Machine Learning, Deep Learning, PyTorch, Transformers, Natural Language Processing (NLP), Data Preprocessing, Pandas, NumPy, Scikit-learn, Matplotlib, OCR
   - Databases: MongoDB, MySQL, PostgreSQL
   - Software Development: Website Deployment, Software Testing, Static Website Hosting
+    
 ## Education
   - M.S., Computer Science @ The University of Minnesota Twin Cities (_May 2025_)
   - B.S., Civil Engineering with Minor in Computer Science @ The University of Illinois Urbana-Champaign (_May 2023_)	
