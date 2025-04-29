@@ -63,7 +63,7 @@
 
 
 
-#### Technical Skills:
+## Technical Skills:
   - Programming Languages: Java, C++, Python, SQL, HTML, CSS
   - Frameworks/Tools: Flask, Git, GitHub, GitHub Pages, VSCode
   - AI/ML/Data: Machine Learning, Deep Learning, PyTorch, Transformers, Natural Language Processing (NLP), Data Preprocessing, Pandas, NumPy, Scikit-learn, Matplotlib, OCR
