@@ -46,7 +46,11 @@
 
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-            <img src="/assets/movie finder.webp" style="width: 100%; height: auto; max-width: 500px;">
+            <video width="640" height="360" controls>
+                <source src="/assets/flashcards ai demo.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
             <h3>Flashcards AI</h3>
             <ul>
                 <li>Built a responsive web app for uploading handwritten notes, managing flashcards, and reviewing generated content.</li>
