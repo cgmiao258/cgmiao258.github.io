@@ -2,7 +2,7 @@
 <div class="class-container" style = "display: flex; flex-direction: column; gap: 16px;">
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-            <video width="960" height="540" controls>
+             <video style="max-width: 100%; height: auto; border-radius: 6px;" controls>
                 <source src="/assets/flashcards ai demo.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
