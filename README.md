@@ -10,6 +10,8 @@
             <h3>Flashcards AI</h3>
             <ul>
                 <li>Built a responsive web app for uploading handwritten notes, managing flashcards, and reviewing generated content.</li>
+                <li>Fine-tuned a Flan-T5 model to generate structured Q&A flashcards from educational notes using supervised input-output pairs.</li>
+                <li>Optimized training with a linear learning rate scheduler and monitored performance using TensorBoard.</li>
                 <li>Developed a Flask server to handle file uploads, call AI services, and serve flashcard data to the frontend.</li>
                 <li>Used ChatGPT API to extract text from handwritten files, bypassing traditional OCR models for greater flexibility with varied handwriting.</li>
                 <li>Reformatted a Kaggle trivia Q&A dataset and trained a supervised PyTorch model to generate flashcards from extracted notes.</li>
