@@ -2,11 +2,15 @@
 <div class="class-container" style = "display: flex; flex-direction: column; gap: 16px;">
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-             <video style="max-width: 100%; height: auto; border-radius: 6px;" controls>
-                <source src="/assets/flashcards ai demo.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-
+            <img src="/assets/flashcards ai.jpeg" style="width: 100%; height: auto; max-width: 200px;">
+            <iframe style="max-width: 100%; height: auto; border-radius: 6px;"
+                width="560" height="315"
+                src="https://www.youtube.com/watch?v=NWfgrAmVRvc"
+                title="Flashcards AI Demo Video" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+            </iframe>
+            
             <h3>Flashcards AI</h3>
             <ul>
                 <li>Built a responsive web app for uploading handwritten notes, managing flashcards, and reviewing generated content.</li>
