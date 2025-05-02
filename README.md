@@ -2,9 +2,9 @@
 <div class="class-container" style = "display: flex; flex-direction: column; gap: 16px;">
     <div class="card" style = "border-radius: 6px; background-color: #f5f5f5; border-color: #d9d9d9; padding: 16px 16px; border-width: 1px; border-style: solid;">
         <div class="card-content">
-            <img src="/assets/flashcards ai.png" style="width: 100%; height: auto; max-width: 200px;">
+            <img src="/assets/flashcards ai.png" style="width: 100%; height: auto; border-radius: 6px; margin-bottom: 12px;">
             
-            <iframe style="width: 100%; max-width: 560px; height: 315px; border-radius: 6px;"
+            <iframe style="width: 100%; height: 315px; border-radius: 6px;"
                 src="https://www.youtube.com/embed/NWfgrAmVRvc"
                 title="Flashcards AI Demo Video" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
