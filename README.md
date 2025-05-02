@@ -5,7 +5,7 @@
             <img src="/assets/flashcards ai.png" style="width: 100%; height: auto; border-radius: 6px; margin-bottom: 12px;">
             
             <iframe style="width: 100%; height: 315px; border-radius: 6px;"
-                src="https://www.youtube.com/embed/NWfgrAmVRvc"
+                src="https://www.youtube.com/embed/vMUidhMpvTo"
                 title="Flashcards AI Demo Video" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen>
