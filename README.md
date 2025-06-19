@@ -33,7 +33,7 @@
             <img src="/assets/postgresql elephant.png" style="width: 100%; height: auto; max-width: 200px;">
             <h3>PostgreSQL Modifications</h3>
             <ul>
-                <li>Modified open source C++ database management system</li>
+                <li>Modified open source C database management system</li>
                 <li>Changed replacement policy to alternate between FIFO, LRU and MRU</li>
                 <li>Forced query selection to be nested loop, merge sort or hash join to compare performance</li>
                 <li>Wrote indexes with B+ tree and hash indexes to compare performance</li>
